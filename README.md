@@ -42,4 +42,4 @@
 ## 🧾 Menções honrosas - Fontes de inspiração
 
  - **📋 [EstudoGit](https://github.com/pedroaugustorgg/EstudoGit):**  Modelo inspirado de documentação
- - **💡 [Smartsheet](https://docs.google.com/spreadsheets/d/1BBZk3Frjn-9VR3O2s9g5YrCWvv9CSFPgK8Zb2GKn5bw/edit):** Modelo de planilha para planejamento financeiro anual doméstico.
+ - **🟢 [Planilha de Vendas XBOX](https://web.dio.me/project/criando-um-dashboard-de-vendas-do-xbox/):** Modelo de planilha apresentado e disponibilizado durante o curso de dashboard de vendas em Excel da plataforma Dio.
